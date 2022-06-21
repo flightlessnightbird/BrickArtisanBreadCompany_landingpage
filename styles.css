@@ -501,6 +501,28 @@ body {
     text-align: left;
 }
 
+.contact a {
+    color: black;
+    text-decoration: none;
+    transition: color 0.2s ease-in;
+}
+
+.contact a:link {
+    color: black;
+}
+
+.contact a:visited {
+    color: black;
+}
+
+.contact a:hover {
+    color: darkcyan;
+}
+
+.contact a:active {
+    color: black;
+}
+
 .contact .write-up h2 {
     margin-bottom: 2rem;
 }
