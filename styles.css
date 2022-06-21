@@ -458,10 +458,6 @@ body {
         margin-bottom: 10rem;
     }
     
-    .cards p {
-        text-align: justify;
-    }
-
     .box {
         min-width: 85%;
         margin: 1rem 0;
@@ -473,7 +469,7 @@ body {
 
     .box p {
         max-width: 85%;
-        text-align: center;
+        text-align: justify;
     }
 
     #button {
